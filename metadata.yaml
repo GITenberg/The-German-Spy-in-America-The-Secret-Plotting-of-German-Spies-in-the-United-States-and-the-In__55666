@@ -1,5 +1,5 @@
 _repo: The-German-Spy-in-America-The-Secret-Plotting-of-German-Spies-in-the-United-States-and-the-In__55666
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introductions:
   - agent_name: Wood, Roger B.
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '729'
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+covers:
+- cover_type: archival
+  image_path: 55666-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, John Price
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '48445'
     url: http://www.gutenberg.org/2009/agents/48445
 description: 'The American edition published under title: America entangled.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55666#The-German-Spy-in-America-The-Secret-Plotting-of-German-Spies-in-the-United-States-and-the-In_
 gutenberg_issued: '2017-10-02'
 gutenberg_type: Text
 identifiers:
