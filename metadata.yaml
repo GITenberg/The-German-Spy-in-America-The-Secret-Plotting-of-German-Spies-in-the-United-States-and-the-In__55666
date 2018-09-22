@@ -1,0 +1,47 @@
+_repo: The-German-Spy-in-America-The-Secret-Plotting-of-German-Spies-in-the-United-States-and-the-In__55666
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Wood, Roger B.
+    gutenberg_agent_id: '47243'
+    url: http://www.gutenberg.org/2009/agents/47243
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+creator:
+  author:
+    agent_name: Jones, John Price
+    birthdate: 1877
+    deathdate: 1964
+    gutenberg_agent_id: '48445'
+    url: http://www.gutenberg.org/2009/agents/48445
+description: 'The American edition published under title: America entangled.'
+gutenberg_issued: '2017-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55666'
+  lccn: war17000197
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Secret service -- Germany'
+- !lcsh 'Spies -- United States -- Biography'
+- !lcsh 'World War, 1914-1918 -- Secret service -- United States'
+- !lcc 'D501'
+- !lcsh 'Spies -- Germany -- Biography'
+- !lcsh 'Espionage, German -- United States -- History -- 20th century'
+- !lcsh 'Germans -- United States'
+- GITenberg
+title: 'The German Spy in America
+
+  The Secret Plotting of German Spies in the United States and the Inside Story of
+  the Sinking of the Lusitania'
+url: http://www.gutenberg.org/ebooks/55666
